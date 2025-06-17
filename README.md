@@ -1,7 +1,7 @@
 
 #  VSD-FORT: Estimating Channels With Hundreds of Sub-Paths for MU-MIMO Uplink: A Structured High-Rank Tensor Approach
 
-This is authors' official implementation for the paper:"**Estimating Channels With Hundreds of Sub-Paths for MU-MIMO Uplink: A Structured High-Rank Tensor Approach**"[[IEEE Xplore](https://ieeexplore.ieee.org/document/10663962)].
+This is authors' official implementation for the paper:"**Estimating Channels With Hundreds of Sub-Paths for MU-MIMO Uplink: A Structured High-Rank Tensor Approach**"[[IEEE Xplore](https://ieeexplore.ieee.org/document/10663962)], published in IEEE Signal Processing Letters.
 
 
 ## Key Idea
