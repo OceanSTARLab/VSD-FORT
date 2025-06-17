@@ -1,13 +1,17 @@
 
 #  VSD-FORT: Estimating Channels With Hundreds of Sub-Paths for MU-MIMO Uplink: A Structured High-Rank Tensor Approach
 
-This is authors' official PyTorch implementation for paper:"**Estimating Channels With Hundreds of Sub-Paths for MU-MIMO Uplink: A Structured High-Rank Tensor Approach**"[[IEEE Xplore](https://ieeexplore.ieee.org/document/10663962)].
+This is authors' official implementation for the paper:"**Estimating Channels With Hundreds of Sub-Paths for MU-MIMO Uplink: A Structured High-Rank Tensor Approach**"[[IEEE Xplore](https://ieeexplore.ieee.org/document/10663962)].
 
 
 ## Key Idea
 This letter introduces a structured high-rank tensor approach for estimating sub-6G uplink channels in multiuser multiple-input and multiple-output (MU-MIMO) systems.
 
+## Requirements:
+The project is primarily developed in **MATLAB** and uses the packages `tensor_toolbox-master` and `tensorlab_2016-03-28`, both of which are self-contained.
 
+## Instructions:
+Run the `main.m` file to demonstrate the synthetic demo.
 
 ## Citing VSD-FORT
 > 🌟 If you find this resource helpful, please consider to star this repository and cite our research:
